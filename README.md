@@ -1,8 +1,12 @@
 ### Hi there,
-
-- I’m currently working on a text editor in rust.
-- I’m currently interested in data science, machine learning, and low level programming.
-- I’m looking to collaborate on any interesting problems or projects.
+- I'm currently working at BNY Mellon as a Data Science Analyst.
+- I’m currently working on:
+    * a text editor in Rust
+    * Stock Tui in Go
+- I’m currently interested in:
+    * data science
+    * machine learning
+    * "low level" programming
 - How to reach me: dawson4623@gmail.com
 - Website: https://crooksryan.com/
 
@@ -10,9 +14,9 @@
 # Exprience
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![ptyhon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
