@@ -1,8 +1,10 @@
 ### Hi there,
-- I'm currently working at BNY Mellon as a Data Science Analyst.
+- I'm currently working at BNY as a Data Science Analyst at the AI Hub.
 - I’m currently working on:
     * a text editor in Rust
     * Stock Tui in Go
+    * Ping Tui in Go
+    * Lightweight Git tui in Go
 - I’m currently interested in:
     * data science
     * machine learning
