@@ -26,4 +26,4 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
-[![Top Langs](https://github-readme-stats-vert-gamma.vercel.app/api/top-langs/?username=rdawson46&size_weight=0.5&hide=css&count_weight=0.5&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff)](https://github.com/rdawson46/github-readme-stats)
+[![Top Langs](https://github-readme-stats-vert-gamma.vercel.app/api/top-langs/?username=rdawson46&size_weight=0.5&hide=css,html&count_weight=0.5&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff)](https://github.com/rdawson46/github-readme-stats)
