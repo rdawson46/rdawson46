@@ -2,13 +2,11 @@
 - I'm currently working at BNY as a Data Science Analyst at the AI Hub.
 - I’m currently working on:
     * a text editor in Rust
-    * Stock Tui in Go
-    * Ping Tui in Go
-    * Lightweight Git tui in Go
+    * multi-terminal screensaver with Go
 - I’m currently interested in:
     * data science
-    * machine learning
-    * "low level" programming
+    * programming languages
+    * applications of gen AI
 - How to reach me: dawson4623@gmail.com
 - Website: https://crooksryan.com/
 
